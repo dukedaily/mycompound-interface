@@ -1,0 +1,25 @@
+.display-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.display-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.row-vertical-center {
+  .display-row();
+  align-items: center;
+}
+
+.row-center {
+  .display-row();
+  align-items: center;
+  justify-content: center;
+}
+
+.row-between {
+  .display-row();
+  justify-content: space-between;
+}

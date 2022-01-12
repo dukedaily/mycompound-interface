@@ -1,0 +1,12 @@
+@font-face {
+  font-family: Bold;
+  src: url('../font/DINPro-Bold.otf');
+ }
+ @font-face {
+  font-family: DINpro;
+  src: url('../font/DINPro-Medium.otf');
+ }
+ @font-face {
+  font-family: Regular;
+  src: url('../font/DINPro-Regular.otf');
+ }
